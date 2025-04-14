@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.uppercase-input {
+    text-transform: uppercase;
+}
+
+/* Untuk placeholder juga uppercase */
+.uppercase-input::placeholder {
+    text-transform: none;
+}
+
+@media (max-width: 640px) {
+    table, thead, tbody, th, td, tr { 
+        display: block; 
+    }
+    thead tr { 
+        position: absolute;
+        top: -9999px;
+        left: -9999px;
+    }
+    tr { margin-bottom: 1rem; }
+    td { 
+        border: none;
+        position: relative;
+        padding-left: 50%; 
+    }
+    td:before { 
+        position: absolute;
+        left: 6px;
+        content: attr(data-label);
+        font-weight: bold;
+    }
+}
