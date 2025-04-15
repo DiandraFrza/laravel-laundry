@@ -22,7 +22,7 @@
 
         <!-- Sidebar (Desktop) -->
         <div class="hidden lg:flex fixed top-0 left-0 h-full w-64 bg-blue-500 p-5 text-white flex-col z-50">
-            <h1 class="text-2xl font-bold mb-4">LaundryFresh</h1>
+            <h1 class="text-2xl font-bold mb-4">LaundryZa</h1>
             <hr class="border-white mb-4">
             @if(auth()->user()->role == 'admin')
                 <li class="mb-2">
@@ -81,7 +81,7 @@
                 </button>
                 
                 <!-- Isi Sidebar Mobile -->
-                <h1 class="text-2xl font-bold mb-4 mt-8">LaundryFresh</h1>
+                <h1 class="text-2xl font-bold mb-4 mt-8">LaundryZa</h1>
                 <hr class="border-white mb-4">
                     <ul class="flex flex-col flex-grow">
                         <ul class="flex flex-col flex-grow">

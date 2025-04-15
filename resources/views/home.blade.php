@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LaundryFresh</title>
+    <title>LaundryZa</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
@@ -70,7 +70,7 @@
                     </li>
                 </ul>
                 <button 
-                    onclick="window.open('https://wa.me/6285215692377?text=Halo%20LaundryFresh,%0A%0ASaya%20ingin%20memesan%20layanan%20laundry%20dengan%20detail%20sebagai%20berikut%3A%0A%0A*Nama*%3A%20%0A*No.%20HP*%3A%20%0A*Alamat*%3A%20%0A*Jenis%20Layanan*%3A%20%0A-%20Cuci%20Kering%0A-%20Cuci%20Setrika%0A-%20Express%0A*Perkiraan%20Berat*%3A%20%0A*Catatan%20Khusus*%3A%20%0A%0ATerima%20kasih', '_blank')"
+                    onclick="window.open('https://wa.me/6285215692377?text=Halo%20LaundryZa,%0A%0ASaya%20ingin%20memesan%20layanan%20laundry%20dengan%20detail%20sebagai%20berikut%3A%0A%0A*Nama*%3A%20%0A*No.%20HP*%3A%20%0A*Alamat*%3A%20%0A*Jenis%20Layanan*%3A%20%0A-%20Cuci%20Kering%0A-%20Cuci%20Setrika%0A-%20Express%0A*Perkiraan%20Berat*%3A%20%0A*Catatan%20Khusus*%3A%20%0A%0ATerima%20kasih', '_blank')"
                     class="mt-4 bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-full text-sm transition-colors">
                     Pesan Sekarang
                 </button>
@@ -256,41 +256,33 @@
                                 <path d="M18.266 26.068l7.839-7.854 4.469 4.479c1.859 1.859 1.859 4.875 0 6.734l-1.104 1.104c-1.859 1.865-4.875 1.865-6.734 0zM30.563 2.531l-1.109-1.104c-1.859-1.859-4.875-1.859-6.734 0l-6.719 6.734-6.734-6.734c-1.859-1.859-4.875-1.859-6.734 0l-1.104 1.104c-1.859 1.859-1.859 4.875 0 6.734l6.734 6.734-6.734 6.734c-1.859 1.859-1.859 4.875 0 6.734l1.104 1.104c1.859 1.859 4.875 1.859 6.734 0l21.307-21.307c1.859-1.859 1.859-4.875 0-6.734z"></path>
                             </svg>
                         </div>
-                        <span class="self-center text-2xl font-semibold">LaundryFresh</span>
+                        <span class="self-center text-2xl font-semibold">LaundryZa</span>
                     </a>
                 </div>
-                <div class="col-span-6 text-center md:text-left md:col-span-3">
-                    <p class="pb-1 text-lg font-medium">Category</p>
+                <div class="font-sm col-span-6 text-center md:text-left md:col-span-3">
+                    <p class="pb-1 text-lg font-medium">Jam Operasional Kami</p>
                     <ul>
                         <li>
-                            <a rel="noopener noreferrer" href="#" class="hover:dark:text-violet-600">Link</a>
+                            <a rel="noopener noreferrer" href="#" class="hover:dark:text-violet-600">Buka Jam 09.00 PM - 10.00 AM</a>
                         </li>
-                        <li>
-                            <a rel="noopener noreferrer" href="#" class="hover:dark:text-violet-600">Link</a>
-                        </li>
-                        <li>
-                            <a rel="noopener noreferrer" href="#" class="hover:dark:text-violet-600">Link</a>
-                        </li>
-                        <li>
-                            <a rel="noopener noreferrer" href="#" class="hover:dark:text-violet-600">Link</a>
-                        </li>
+                        <li><a rel="noopener noreferrer" href="#" class="hover:dark:text-violet-600">Buka Jam 09.00 PM - 10.00 AM</a></li>
+                        <li><a rel="noopener noreferrer" href="#" class="hover:dark:text-violet-600">Buka Jam 09.00 PM - 10.00 AM</a></li>
+                        <li><a rel="noopener noreferrer" href="#" class="hover:dark:text-violet-600">Buka Jam 09.00 PM - 10.00 AM</a></li>
+                        <li><a rel="noopener noreferrer" href="#" class="hover:dark:text-violet-600">Buka Jam 09.00 PM - 06.00 AM</a></li>
+                        <li><a rel="noopener noreferrer" href="#" class="hover:dark:text-violet-600">Buka Jam 09.00 PM - 10.00 AM</a></li>
+                        <li><a rel="noopener noreferrer" href="#" class="hover:dark:text-violet-600">Buka Jam 09.00 PM - 09.00 AM</a></li>
                     </ul>
                 </div>
                 <div class="col-span-6 text-center md:text-left md:col-span-3">
-                    <p class="pb-1 text-lg font-medium">Category</p>
+                    <p class="pb-1 text-lg font-medium">Hari</p>
                     <ul>
-                        <li>
-                            <a rel="noopener noreferrer" href="#" class="hover:dark:text-violet-600">Link</a>
-                        </li>
-                        <li>
-                            <a rel="noopener noreferrer" href="#" class="hover:dark:text-violet-600">Link</a>
-                        </li>
-                        <li>
-                            <a rel="noopener noreferrer" href="#" class="hover:dark:text-violet-600">Link</a>
-                        </li>
-                        <li>
-                            <a rel="noopener noreferrer" href="#" class="hover:dark:text-violet-600">Link</a>
-                        </li>
+                        <li><a rel="noopener noreferrer" href="#" class="hover:dark:text-violet-600">Senin</a></li>
+                        <li><a rel="noopener noreferrer" href="#" class="hover:dark:text-violet-600">Selasa</a></li>
+                        <li><a rel="noopener noreferrer" href="#" class="hover:dark:text-violet-600">Rabu</a></li>
+                        <li><a rel="noopener noreferrer" href="#" class="hover:dark:text-violet-600">Kamis</a></li>
+                        <li><a rel="noopener noreferrer" href="#" class="hover:dark:text-violet-600">Juma'at</a></li>
+                        <li><a rel="noopener noreferrer" href="#" class="hover:dark:text-violet-600">Sabtu</a></li>
+                        <li><a rel="noopener noreferrer" href="#" class="hover:dark:text-violet-600">Minggu</a></li>
                     </ul>
                 </div>
             </div>
@@ -334,6 +326,7 @@
             <hr class="border-gray-300 mb-4">
             <p class="font-bold mt-4">Nama Pemesan: <span class="font-normal" id="nama"></span></p>
             <p class="font-bold mt-4">No Handphone: <span class="font-normal" id="noHp"></span></p>
+            <p class="font-bold mt-4">Jenis Pesanan: <span class="font-normal" id="jenisPaket"></span></p>
             <p class="font-bold mt-4">Total Harga: Rp. <span class="font-normal text-blue-600" id="totalHarga"></span></p>
             <p class="font-bold mt-4">Tanggal Pemesanan: <span class="font-normal" id="createdAt"></span></p>
             <p class="font-bold mt-4">Status: <span class="font-normal text-blue-600" id="status"></span></p>
